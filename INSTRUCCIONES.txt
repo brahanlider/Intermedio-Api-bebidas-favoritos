@@ -1,0 +1,12 @@
+INSTALL
+
+react router dom ( npm i react-router-dom)
+tailwind
+zustand
+zod
+HeadlessUI (npm install @headlessui/react)
+npm i @heroicons/react
+
+
+
+---------------------------------------------------------------------
